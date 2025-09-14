@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/fdd95a540d0548038adb5e7a35cae2aa/artifacts
+end_time: 1757859557358
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fdd95a540d0548038adb5e7a35cae2aa
+run_name: bittersweet-mare-465
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757859557132
+status: 3
+tags: []
+user_id: mohit

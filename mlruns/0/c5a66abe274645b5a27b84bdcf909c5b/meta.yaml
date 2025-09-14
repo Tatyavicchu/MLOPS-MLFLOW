@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/c5a66abe274645b5a27b84bdcf909c5b/artifacts
+end_time: 1757845318346
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c5a66abe274645b5a27b84bdcf909c5b
+run_name: carefree-bee-913
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757845318235
+status: 3
+tags: []
+user_id: mohit

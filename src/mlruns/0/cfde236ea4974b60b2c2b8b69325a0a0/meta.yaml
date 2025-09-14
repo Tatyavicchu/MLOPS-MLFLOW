@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/mohit/vscode/mlops/MLOPS-MLFLOW/src/mlruns/0/cfde236ea4974b60b2c2b8b69325a0a0/artifacts
+end_time: 1757861820192
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cfde236ea4974b60b2c2b8b69325a0a0
+run_name: funny-wren-241
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757861819484
+status: 3
+tags: []
+user_id: mohit

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/c07d329531d54a748b87e147744dda69/artifacts
+end_time: 1757861847341
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c07d329531d54a748b87e147744dda69
+run_name: bemused-snake-106
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757861846946
+status: 3
+tags: []
+user_id: mohit

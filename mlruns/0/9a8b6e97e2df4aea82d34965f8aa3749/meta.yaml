@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/9a8b6e97e2df4aea82d34965f8aa3749/artifacts
+deleted_time: 1757859654121
+end_time: 1757845233411
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 9a8b6e97e2df4aea82d34965f8aa3749
+run_name: fun-lynx-116
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757845233072
+status: 4
+tags: []
+user_id: mohit

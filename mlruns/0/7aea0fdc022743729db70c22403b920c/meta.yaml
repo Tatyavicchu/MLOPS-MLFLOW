@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/7aea0fdc022743729db70c22403b920c/artifacts
+deleted_time: 1757859654105
+end_time: 1757845284391
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 7aea0fdc022743729db70c22403b920c
+run_name: dazzling-pug-787
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757845284063
+status: 4
+tags: []
+user_id: mohit

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/f915c37230a84a0185c30c155db1973e/artifacts
+deleted_time: 1757861898966
+end_time: 1757861638410
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: f915c37230a84a0185c30c155db1973e
+run_name: nervous-sloth-934
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757861637109
+status: 3
+tags: []
+user_id: mohit

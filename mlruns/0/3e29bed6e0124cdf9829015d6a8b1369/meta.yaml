@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/3e29bed6e0124cdf9829015d6a8b1369/artifacts
+deleted_time: 1757861647401
+end_time: 1757861534471
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 3e29bed6e0124cdf9829015d6a8b1369
+run_name: bemused-mole-542
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757861534053
+status: 4
+tags: []
+user_id: mohit

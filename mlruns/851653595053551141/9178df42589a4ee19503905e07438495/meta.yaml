@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/851653595053551141/9178df42589a4ee19503905e07438495/artifacts
+end_time: 1757870138965
+entry_point_name: ''
+experiment_id: '851653595053551141'
+lifecycle_stage: active
+run_id: 9178df42589a4ee19503905e07438495
+run_name: fortunate-ape-275
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757870129583
+status: 3
+tags: []
+user_id: mohit
