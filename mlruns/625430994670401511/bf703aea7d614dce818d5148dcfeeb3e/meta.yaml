@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/mohit/vscode/mlops/MLOPS-MLFLOW/mlruns/625430994670401511/bf703aea7d614dce818d5148dcfeeb3e/artifacts
+end_time: 1757874881483
+entry_point_name: ''
+experiment_id: '625430994670401511'
+lifecycle_stage: active
+run_id: bf703aea7d614dce818d5148dcfeeb3e
+run_name: gifted-gull-92
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757874881426
+status: 3
+tags: []
+user_id: mohit

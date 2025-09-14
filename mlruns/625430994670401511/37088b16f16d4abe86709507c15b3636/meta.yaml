@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/mohit/vscode/mlops/MLOPS-MLFLOW/mlruns/625430994670401511/37088b16f16d4abe86709507c15b3636/artifacts
+end_time: 1757874881594
+entry_point_name: ''
+experiment_id: '625430994670401511'
+lifecycle_stage: active
+run_id: 37088b16f16d4abe86709507c15b3636
+run_name: treasured-foal-734
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757874881541
+status: 3
+tags: []
+user_id: mohit

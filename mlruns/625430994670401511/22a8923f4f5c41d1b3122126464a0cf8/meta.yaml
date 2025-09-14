@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/mohit/vscode/mlops/MLOPS-MLFLOW/mlruns/625430994670401511/22a8923f4f5c41d1b3122126464a0cf8/artifacts
+end_time: 1757874881870
+entry_point_name: ''
+experiment_id: '625430994670401511'
+lifecycle_stage: active
+run_id: 22a8923f4f5c41d1b3122126464a0cf8
+run_name: vaunted-gnat-284
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757874881817
+status: 3
+tags: []
+user_id: mohit

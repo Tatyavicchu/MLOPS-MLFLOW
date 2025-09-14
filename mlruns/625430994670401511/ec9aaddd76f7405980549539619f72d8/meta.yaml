@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/mohit/vscode/mlops/MLOPS-MLFLOW/mlruns/625430994670401511/ec9aaddd76f7405980549539619f72d8/artifacts
+end_time: 1757874881926
+entry_point_name: ''
+experiment_id: '625430994670401511'
+lifecycle_stage: active
+run_id: ec9aaddd76f7405980549539619f72d8
+run_name: hilarious-ray-670
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757874881873
+status: 3
+tags: []
+user_id: mohit

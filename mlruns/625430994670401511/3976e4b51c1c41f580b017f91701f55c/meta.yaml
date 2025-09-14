@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/mohit/vscode/mlops/MLOPS-MLFLOW/mlruns/625430994670401511/3976e4b51c1c41f580b017f91701f55c/artifacts
+end_time: 1757874881713
+entry_point_name: ''
+experiment_id: '625430994670401511'
+lifecycle_stage: active
+run_id: 3976e4b51c1c41f580b017f91701f55c
+run_name: legendary-rat-937
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757874881658
+status: 3
+tags: []
+user_id: mohit

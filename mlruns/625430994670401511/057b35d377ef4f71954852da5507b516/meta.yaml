@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/mohit/vscode/mlops/MLOPS-MLFLOW/mlruns/625430994670401511/057b35d377ef4f71954852da5507b516/artifacts
+end_time: 1757874881538
+entry_point_name: ''
+experiment_id: '625430994670401511'
+lifecycle_stage: active
+run_id: 057b35d377ef4f71954852da5507b516
+run_name: unique-dolphin-7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757874881485
+status: 3
+tags: []
+user_id: mohit

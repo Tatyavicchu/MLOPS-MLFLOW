@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/mohit/vscode/mlops/MLOPS-MLFLOW/mlruns/625430994670401511/models/m-3516261f93164380ae95c3f692fe85e3/artifacts
+creation_timestamp: 1757874882176
+experiment_id: '625430994670401511'
+last_updated_timestamp: 1757874887113
+model_id: m-3516261f93164380ae95c3f692fe85e3
+model_type: null
+name: random_forest
+source_run_id: 843bebca988749379e471b2a76a81ded
+status: 2
+status_message: null

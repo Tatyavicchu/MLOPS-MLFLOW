@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/851653595053551141/937613608be7412385d71e3f73a08529/artifacts
+end_time: 1757873429908
+entry_point_name: ''
+experiment_id: '851653595053551141'
+lifecycle_stage: active
+run_id: 937613608be7412385d71e3f73a08529
+run_name: resilient-owl-875
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757873424133
+status: 3
+tags: []
+user_id: mohit

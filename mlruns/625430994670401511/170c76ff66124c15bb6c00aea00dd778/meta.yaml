@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/mohit/vscode/mlops/MLOPS-MLFLOW/mlruns/625430994670401511/170c76ff66124c15bb6c00aea00dd778/artifacts
+end_time: 1757874881765
+entry_point_name: ''
+experiment_id: '625430994670401511'
+lifecycle_stage: active
+run_id: 170c76ff66124c15bb6c00aea00dd778
+run_name: merciful-goose-404
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757874881715
+status: 3
+tags: []
+user_id: mohit

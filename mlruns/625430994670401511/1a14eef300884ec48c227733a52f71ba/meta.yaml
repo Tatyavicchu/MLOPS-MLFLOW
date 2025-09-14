@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/mohit/vscode/mlops/MLOPS-MLFLOW/mlruns/625430994670401511/1a14eef300884ec48c227733a52f71ba/artifacts
+end_time: 1757874881815
+entry_point_name: ''
+experiment_id: '625430994670401511'
+lifecycle_stage: active
+run_id: 1a14eef300884ec48c227733a52f71ba
+run_name: brawny-doe-559
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757874881768
+status: 3
+tags: []
+user_id: mohit

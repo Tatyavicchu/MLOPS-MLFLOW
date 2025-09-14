@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/mohit/vscode/mlops/MLOPS-MLFLOW/mlruns/625430994670401511/316102f41d4441218d21f8f22abd7798/artifacts
+end_time: 1757874882042
+entry_point_name: ''
+experiment_id: '625430994670401511'
+lifecycle_stage: active
+run_id: 316102f41d4441218d21f8f22abd7798
+run_name: intrigued-snail-376
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757874881988
+status: 3
+tags: []
+user_id: mohit

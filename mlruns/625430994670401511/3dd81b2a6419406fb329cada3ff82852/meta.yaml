@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/mohit/vscode/mlops/MLOPS-MLFLOW/mlruns/625430994670401511/3dd81b2a6419406fb329cada3ff82852/artifacts
+end_time: 1757874881985
+entry_point_name: ''
+experiment_id: '625430994670401511'
+lifecycle_stage: active
+run_id: 3dd81b2a6419406fb329cada3ff82852
+run_name: enchanting-sloth-793
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757874881928
+status: 3
+tags: []
+user_id: mohit
